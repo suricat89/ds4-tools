@@ -6,7 +6,8 @@ from time import sleep
 
 registeredDevices = [
   '48:18:8D:6A:A2:17',
-  '00:1F:E2:DF:20:56'
+  '00:1F:E2:DF:20:56',
+  '88:03:4C:16:82:32'
 ]
 
 sleepTime = 1
